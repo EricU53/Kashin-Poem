@@ -1,2 +1,2 @@
 # Kashin-Poem
-This a learning processing
+This a learning process
